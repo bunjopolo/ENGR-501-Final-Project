@@ -1,7 +1,7 @@
 # ENGR-501-Final-Project
 
 The goal of this project was to train a high accuracy classifier for the detection of COVID-19 in CT scan images. 
-Model parameters were tracked using Weights and Biases. The highest validation accuracy Achieved was 94.95% 
+Model parameters were tracked using Weights and Biases. The highest validation accuracy Achieved was 94.96% 
 
 
 
